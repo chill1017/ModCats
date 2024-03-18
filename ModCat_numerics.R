@@ -1,7 +1,6 @@
 install.packages("BB")
 library("BB")
-# help(package=BB)
-# vignette("BB")
+
 
 setwd("/Users/calebhill/Documents/UNH/Research/code/gen2")
 
